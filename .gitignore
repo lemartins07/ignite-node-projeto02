@@ -1,4 +1,15 @@
+#Dependencies
 node_modules
-db/app.bd
-.DS_Store
+
+#Database
+db/*.bd
+
+#Enviroment
 .env
+.env.test
+
+#Dist
+dist
+
+#Misc
+.DS_Store
